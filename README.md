@@ -71,7 +71,7 @@ python src/train.py \
 3. 恢复训练（从最优模型继续）
 
 ```bash
-python ../src/train.py \
+python src/train.py \
   --resume \
   --resume_checkpoint ../checkpoints/best_model.pth
 ```
