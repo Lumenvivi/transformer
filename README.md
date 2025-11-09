@@ -124,9 +124,6 @@ python ../src/train.py \
 
 - `loss_curves.png`：训练 / 验证损失随 epoch 变化曲线
 
-![loss_curves](.\results\loss_curves.png)
-
 - `bleu_curves.png`：验证集 BLEU 分数随 epoch 变化曲线
 
-  ![bleu_curves](.\results\bleu_curves.png)
 
