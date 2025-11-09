@@ -1,0 +1,2 @@
+final_train_loss,final_val_loss,best_val_bleu,test_bleu
+2.6542,2.3671,22.72,23.16
