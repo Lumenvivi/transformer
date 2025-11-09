@@ -392,8 +392,8 @@ def main():
     result_data = {
         'final_train_loss': [round(results['train_losses'][-1], 4)],
         'final_val_loss': [round(results['val_losses'][-1], 4)],
-        'best_val_bleu': [round(results['best_val_bleu'], 4)],
-        'test_bleu': [round(results['test_bleu'], 4)]
+        'best_val_bleu': [round(results['best_val_bleu'], 2)],
+        'test_bleu': [round(results['test_bleu'], 2)]
     }
 
     result_df = pd.DataFrame(result_data)
