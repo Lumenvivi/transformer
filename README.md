@@ -1,4 +1,4 @@
-# 基于相对位置偏置的 Transformer Encoder–Decoder 架构实现
+# 面向机器翻译的 Transformer Encoder–Decoder 架构实现
 
 ## 项目简介
 
